@@ -1,6 +1,6 @@
 from revChatGPT.V3 import Chatbot
 
-api_key = "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"
+api_key = "12"
 
 
 # for i, q in enumerate(enhanced_questions):
